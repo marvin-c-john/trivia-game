@@ -16,19 +16,19 @@ Screenshots
 Here are some screenshots of the app in action:
 
  <!-- Replace this link with the actual path to the main screen screenshot -->
-Main screen showing a trivia question with multiple choices.
+# Main screen showing a trivia question with multiple choices.
 
 ![Simulator Screenshot - iPhone 15 - 2024-07-12 at 21 13 55](https://github.com/user-attachments/assets/e41295bc-8b57-43d6-9729-d1fd2d59487d)
 
-Correct answer highlighted with a green border.
+# Correct answer highlighted with a green border.
 
 ![Simulator Screenshot - iPhone 15 - 2024-07-12 at 21 13 58](https://github.com/user-attachments/assets/cdd3e806-7fd0-4d99-9728-cff45b19287d)
 
 
-Incorrect answer shaking and the phone vibrating.
+# Incorrect answer shaking and the phone vibrating.
 
 https://github.com/user-attachments/assets/6fd91698-9126-4828-9353-ecbdbbe36258
 
-App in dark mode showing a trivia question with multiple choices.
+# App in dark mode showing a trivia question with multiple choices.
 
 ![Simulator Screenshot - iPhone 15 - 2024-07-12 at 21 58 38](https://github.com/user-attachments/assets/c7993476-4b8b-4f10-b5ed-1a0b2969517a)
