@@ -25,7 +25,7 @@ Here are some screenshots of the app in action:
 ![Simulator Screenshot - iPhone 15 - 2024-07-12 at 21 13 58](https://github.com/user-attachments/assets/cdd3e806-7fd0-4d99-9728-cff45b19287d)
 
 
-# Incorrect answer shaking and the phone vibrating.
+# Screen Recording: 
 
 https://github.com/user-attachments/assets/6fd91698-9126-4828-9353-ecbdbbe36258
 
